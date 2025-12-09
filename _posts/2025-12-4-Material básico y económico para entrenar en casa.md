@@ -27,10 +27,6 @@ Si no tienes presupuesto, usa objetos domésticos:
 - Toallas = correas para estiramientos
 - Botellas = mancuernas improvisadas
 
-![Imagen]({{'assets/img/IMAGENGYM.JPG' | relative_url }})
-
 Con creatividad, puedes intensificar tus rutinas sin comprar equipo caro.
 
 ![Imagen]({{ 'assets/img/IMAGENGYM.JPG' | relative_url }})
-
-![Imagen]({{'assets/img/IMAGENGYM.JPG' | relative_url }})
