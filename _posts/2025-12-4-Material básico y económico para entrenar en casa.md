@@ -11,8 +11,7 @@ tags: [documentation,sample]
 
 Aunque puedes entrenar sin nada, algunos accesorios económicos pueden ayudarte a subir de nivel.
 
-![Imagen](/assets/img/gimnasio-casa3.jpg)
-
+![Imagen]({{ 'assets/img/gimnasio-casa3.jpg' | relative_url }})
 
 ## Material recomendado
 - Bandas elásticas (baratas y muy útiles)
@@ -20,7 +19,7 @@ Aunque puedes entrenar sin nada, algunos accesorios económicos pueden ayudarte 
 - Esterilla antideslizante
 - Step o caja estable
 
-![Imagen](/assets/img/gimnasio-en-casa%201.jpg)
+![Imagen]({{ 'assets/img/gimnasio-en-casa 1.jpg' | relative_url }})
 
 ## Tip extra
 Si no tienes presupuesto, usa objetos domésticos:

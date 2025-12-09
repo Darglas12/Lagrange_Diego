@@ -27,4 +27,4 @@ Entrenar sin planificación puede hacer que avances más lento o que te estanque
 
 La constancia siempre supera la intensidad. 
 
-![Imagen](/assets/img/IMAGENGYM2.jpg)
+![Imagen]({{ 'assets/img/IMAGENGYM2.jpg' | relative_url }})
