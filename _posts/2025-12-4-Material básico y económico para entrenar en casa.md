@@ -29,4 +29,4 @@ Si no tienes presupuesto, usa objetos domésticos:
 
 Con creatividad, puedes intensificar tus rutinas sin comprar equipo caro.
 
-![Imagen](/assets/img/IMAGENGYM.JPG)
+![Imagen]({{ 'assets/img/IMAGENGYM.JPG' | relative_url }})
