@@ -24,4 +24,4 @@ Tener un espacio adecuado te ayuda a entrenar con más motivación y seguridad. 
 
 Un espacio bien preparado = menos excusas y más constancia.
 
-![Imagen]({{'assets/img/gimnasio-casa7.jpg'}})
+![Imagen]({{ '/assets/img/gimnasio-casa7.jpg' | relative_url }})
